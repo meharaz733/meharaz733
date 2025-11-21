@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Meharaz Hossain 👋
 
-<!--
-**meharaz733/meharaz733** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a final-year Computer Science and Engineering student passionate about **AI, Machine Learning, Deep Learning, and Software Development**. I enjoy building real-world projects, solving challenging problems, and exploring new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Technologies
+
+**Programming Languages & Frameworks:**  
+C, C++, Python, FastAPI, LangChain, TensorFlow, Keras, SQL  
+
+**Technologies & Tools:**  
+AWS (EC2), Docker, GitHub, Kaggle, Vector Databases (Chroma, Pinecone), Large Language Models (LLMs), Retrieval-Augmented Generation (RAG)  
+
+---
+
+## 🚀 Projects
+
+### [**ChatTube (2025)**](https://github.com/meharaz733/ChatTube.git)  
+A browser extension that lets users chat with an AI about the YouTube video they're watching.  
+**Tech Stack:** Python, FastAPI, LangChain, Chroma, SQLite, HuggingFace, JavaScript, HTML, CSS
+
+### [**ChoritroAI (2025)**](https://github.com/meharaz733/ChoritroAI.git)  
+Bangla handwriting practice tool powered by a custom deep-learning model from an accepted IEEE conference paper.  
+**Tech Stack:** Python, FastAPI, JavaScript, HTML, CSS
+
+### [**Sudoku-2023 (2023)**](https://github.com/meharaz733/Sudoko-2023.git)  
+A simple Sudoku game built using C++ and GTK3.  
+**Tech Stack:** C++, GTK3
+
+---
+
+## 🏆 Achievements
+
+- Participant, **ICPC Regional Contest 2023**  
+- Solved **236 problems on Codeforces**  
