@@ -33,4 +33,17 @@ A simple Sudoku game built using C++ and GTK3.
 ## 🏆 Achievements
 
 - Participant, **ICPC Regional Contest 2023**  
-- Solved **236 problems on Codeforces**  
+- Solved **236 problems on Codeforces**
+- Author of an accepted IEEE conference paper: *“EfficientNetV2S with End Ensemble for Robust Bangla Handwritten Character Recognition”*  
+- 1st Runner-up, University-level **Hardware & IoT Project Showcase**  
+
+---
+
+## 📫 Connect with Me
+
+- Email: [meharaz733@gmail.com](mailto:meharaz733@gmail.com)  
+- LinkedIn: [linkedin.com/in/meharaz733](https://linkedin.com/in/meharaz733)
+
+---
+
+✨ I’m always learning, building, and contributing to interesting AI and software projects.
