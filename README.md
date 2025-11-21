@@ -33,7 +33,6 @@ A simple Sudoku game built using C++ and GTK3.
 ## 🏆 Achievements
 
 - Participant, **ICPC Regional Contest 2023**  
-- Solved **236 problems on Codeforces**
 - Author of an accepted IEEE conference paper: *“EfficientNetV2S with End Ensemble for Robust Bangla Handwritten Character Recognition”*  
 - 1st Runner-up, University-level **Hardware & IoT Project Showcase**  
 
