@@ -7,10 +7,10 @@ I am a final-year Computer Science and Engineering student passionate about **GE
 ## 🛠 Skills & Technologies
 
 **Programming Languages & Frameworks:**  
-C, C++, Python, FastAPI, LangChain, TensorFlow, Keras, SQL  
+C, C++, Python, FastAPI, FastMCP LangChain, TensorFlow, Keras, SQL  
 
 **Technologies & Tools:**  
-AWS (EC2), Docker, GitHub, Kaggle, Vector Databases, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG)  
+AWS (EC2), Docker, GitHub, Kaggle, Vector Databases, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), FastMCP Cloud, HuggingFace
 
 ---
 
