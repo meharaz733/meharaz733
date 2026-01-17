@@ -1,6 +1,6 @@
 # Hi there, I'm Meharaz Hossain 👋
 
-I am a final-year Computer Science and Engineering student passionate about **GEN AI**. I enjoy building real-world projects, solving challenging problems, and exploring new technologies.
+Aspiring AI Engineer and recent BSc graduate in Computer Science and Engineering with hands-on experience in machine learning, deep learning, and generative AI. Conducted research and development on applied AI systems, resulting in a published conference paper at the 28th ICCIT and an accepted paper at IEEE i-COSTE 2025. Built several AI-driven systems, including a RAG-based browser extension. Strong programming fundamentals and a strong drive to solve real-world problems through scalable AI solutions.
 
 ---
 
